@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakash Jogalpure</h1>
-<h3 align="center">A aspiring full stack developer from India</h3>
+<h3 align="center">A aspiring Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 📫 How to reach me **aakashjogalpure07@gmail.com**
 
